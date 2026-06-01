@@ -112,6 +112,7 @@ public class prog {
 ```
 
 ## OUTPUT:
+<img width="985" height="540" alt="image" src="https://github.com/user-attachments/assets/024b5f2a-5d10-4693-bfa6-7fbf616245a5" />
 
 
 
